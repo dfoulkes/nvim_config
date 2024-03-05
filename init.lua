@@ -1,2 +1,2 @@
 require("foulkes")
-print("hello")
+print("Welicome Dan, to nvim on your WSL")

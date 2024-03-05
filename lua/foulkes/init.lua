@@ -1,3 +1,6 @@
 require("foulkes.remap")
 require("foulkes.packer")
-print("Hello Dan")
+require("foulkes.nvimtree")
+
+vim.wo.number = true
+vim.wo.relativenumber = false
